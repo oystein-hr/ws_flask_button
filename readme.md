@@ -4,7 +4,7 @@
 
 ## About
 Learning to use HTML/CSS/JS as front-end for Python apps, this mini project tries to use Websocket 
-and Flask as back-end.  
+and Flask as back-end..  
 
 Turns out that it will most likely not work like I imagined, so I am abandoning this mini project.
 There are other socket io packages that works with Flask, but for what I want to use it as it
